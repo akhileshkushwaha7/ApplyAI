@@ -16,6 +16,5 @@ This workflow automates the end-to-end job search process using:
 ✅ Creates Google Doc for each job  
 ✅ Sends daily email  
 
-## Workflow File
-The complete workflow is in:
+
 
